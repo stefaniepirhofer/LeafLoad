@@ -47,14 +47,11 @@ The project is maintained in a single repository with separate folders for front
 
 ## Installation
 
-### Option 1: Run with Docker
-
 Make sure Docker and Docker Compose are installed.
 
 ```bash
 docker-compose up --build
 ```
-### Option 2: Manual Setup
 
 Backend
 ```bash
